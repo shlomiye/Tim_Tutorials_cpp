@@ -1,8 +1,8 @@
 #include <iostream>
- using namespace std;
+using namespace std;
 
  int main() {
- 	int x = 20;
+ 	int x = 2;
  	switch (x + 1) {
  		case 1:
  		    cout << "cool";
